@@ -3,7 +3,7 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
 
-//learning how to use useState and
+//learning how to use useState and hooks
 
 function App() {
   //let counter =5
