@@ -19,7 +19,7 @@ function App() {
       pass=str.charAt(char)
       
     }
-    setPassword(pass)
+    setPassword(pass) 
 
   },[length,num,specialChar,password])
 
